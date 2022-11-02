@@ -108,14 +108,13 @@
       <artifactId>spring-boot-devtools</artifactId>
       <optional>true</optional>
     </dependency>
-  </dependencies>
-    
-    <!-- https://mvnrepository.com/artifact/io.spring.javaformat/spring-javaformat-formatter -->
-<dependency>
-    <groupId>io.spring.javaformat</groupId>
-    <artifactId>spring-javaformat-formatter</artifactId>
-    <version>0.0.35</version>
-</dependency>
+    <dependency>
+        <groupId>io.spring.javaformat</groupId>
+        <artifactId>spring-javaformat-formatter</artifactId>
+        <version>0.0.35</version>
+   </dependency>
+ </dependencies>
+
 
 
   <build>
